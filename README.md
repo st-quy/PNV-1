@@ -3,3 +3,5 @@
 # git merge
 
 # git rebase
+
+# git checkout
